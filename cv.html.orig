@@ -47,6 +47,7 @@
 </head>
 <body>
     <div class="container">
+<<<<<<< HEAD
 
         <h1>Mudança de heading</h1>
 
@@ -55,6 +56,9 @@
         <img src="https://img.olhardigital.com.br/wp-content/uploads/2021/03/Foto-desenho-1.jpeg" alt="teste" srcset="">
 
         <h1>Curriculum Vitae</h1>
+=======
+        <h1><title>Curriculum Vitae</title></h1>
+>>>>>>> ebe742aa67337c6c4b20584a27d7828e39b2302f
 
         <div class="section info">
             <h2>Informação Pessoal</h2>
